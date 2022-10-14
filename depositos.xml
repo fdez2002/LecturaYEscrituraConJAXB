@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<depositos>
+    <deposito idDeposito="asdasd">
+        <diametro>2.0</diametro>
+        <altura>3.0</altura>
+    </deposito>
+</depositos>
